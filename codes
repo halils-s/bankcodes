@@ -21,6 +21,7 @@
         "deleted_at": null,
         "logo": "https://cloudfilesstore.blob.core.windows.net/icons/Banks/070010.png"
     },
+    
     {
         "id": 366,
         "InstitutionCode": "090260",
